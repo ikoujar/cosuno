@@ -8,7 +8,7 @@ This project built using Next.js framework.
 
 You can access an online deployment for this project from the following URL:
 
-https://cosuno.vercel.app
+https://cosuno-demo.vercel.app/?page=1
 
 ## Docs
 - [API](docs/API.md)
