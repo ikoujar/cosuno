@@ -13,7 +13,7 @@ export default function Loading({ show }: Props) {
         <Card sx={{ my: 1 }} variant={'outlined'}>
             <CardContent>
                 <Box display='flex' flexDirection={'column'} justifyContent={'center'} alignItems={'center'}>
-                    <CircularProgress color="secondary" sx={{ my: 3 }}/>
+                    <CircularProgress color='secondary' sx={{ my: 3 }} />
                     <Typography variant={'body1'}>
                         Fetching data, please wait
                     </Typography>

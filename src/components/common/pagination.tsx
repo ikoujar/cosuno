@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 import { cleanQueryParams } from '../../../utils/helpers';
-import { Box, Pagination } from "@mui/material";
+import { Box, Pagination } from '@mui/material';
 
 type Props = {
     count: number,
@@ -26,8 +26,8 @@ export default function MyPagination({ count }: Props) {
         <Box display={'flex'} justifyContent={'center'} mb={2}>
             <Pagination
                 count={count}
-                variant="outlined"
-                color="primary"
+                variant='outlined'
+                color='primary'
                 page={active}
                 onChange={(_, value) => onChange(value)}
             />

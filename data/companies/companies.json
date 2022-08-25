@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Gigabox",
     "city": "K’anak’erravan",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "Gigaclub",
     "city": "Hacıqabul",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -23,7 +23,7 @@
     "id": 3,
     "name": "Edgewire",
     "city": "Žrnovnica",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -33,7 +33,7 @@
     "id": 4,
     "name": "Skynoodle",
     "city": "Shiye",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -43,7 +43,7 @@
     "id": 5,
     "name": "Kanoodle",
     "city": "Baltimore",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -53,7 +53,7 @@
     "id": 6,
     "name": "Rhynoodle",
     "city": "Kamo",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -63,7 +63,7 @@
     "id": 7,
     "name": "Topiclounge",
     "city": "Knoxville",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -73,7 +73,7 @@
     "id": 8,
     "name": "Agimba",
     "city": "Heshan",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -83,7 +83,7 @@
     "id": 9,
     "name": "Wikivu",
     "city": "Ebak",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -93,7 +93,7 @@
     "id": 10,
     "name": "Brainlounge",
     "city": "Ongabelen",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -103,7 +103,7 @@
     "id": 11,
     "name": "Brainlounge",
     "city": "Ruma",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -113,7 +113,7 @@
     "id": 12,
     "name": "Gabtune",
     "city": "Mora",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -123,7 +123,7 @@
     "id": 13,
     "name": "Browseblab",
     "city": "Makamba",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -133,7 +133,7 @@
     "id": 14,
     "name": "Photospace",
     "city": "Ar Raqqah",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -143,7 +143,7 @@
     "id": 15,
     "name": "Skinix",
     "city": "Ksawerów",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -153,7 +153,7 @@
     "id": 16,
     "name": "Topicshots",
     "city": "Santa Valha",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -163,7 +163,7 @@
     "id": 17,
     "name": "Trudoo",
     "city": "Águas",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -173,7 +173,7 @@
     "id": 18,
     "name": "Brainverse",
     "city": "Dordrecht",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -183,7 +183,7 @@
     "id": 19,
     "name": "Skippad",
     "city": "La Soledad",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -193,7 +193,7 @@
     "id": 20,
     "name": "Dabjam",
     "city": "Nay Pyi Taw",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -203,7 +203,7 @@
     "id": 21,
     "name": "Kayveo",
     "city": "Birr",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -213,7 +213,7 @@
     "id": 22,
     "name": "Zoomcast",
     "city": "Banikoara",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -223,7 +223,7 @@
     "id": 23,
     "name": "DabZ",
     "city": "Trondheim",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -233,7 +233,7 @@
     "id": 24,
     "name": "Skinder",
     "city": "Binabaan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -243,7 +243,7 @@
     "id": 25,
     "name": "Ntag",
     "city": "Sunne",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -253,7 +253,7 @@
     "id": 26,
     "name": "Youspan",
     "city": "Sukamaju",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -263,7 +263,7 @@
     "id": 27,
     "name": "Jabberstorm",
     "city": "Melaka",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -273,7 +273,7 @@
     "id": 28,
     "name": "Browsezoom",
     "city": "Béreldange",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -283,7 +283,7 @@
     "id": 29,
     "name": "Mydeo",
     "city": "Juripiranga",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -293,7 +293,7 @@
     "id": 30,
     "name": "Skalith",
     "city": "Annapolis",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -303,7 +303,7 @@
     "id": 31,
     "name": "Blogpad",
     "city": "Ochakovo-Matveyevskoye",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -313,7 +313,7 @@
     "id": 32,
     "name": "Gabtune",
     "city": "Tebon",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -323,7 +323,7 @@
     "id": 33,
     "name": "Dabvine",
     "city": "Saint-Denis",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -333,7 +333,7 @@
     "id": 34,
     "name": "Innojam",
     "city": "Terezín",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -343,7 +343,7 @@
     "id": 35,
     "name": "Trunyx",
     "city": "Dondon",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -353,7 +353,7 @@
     "id": 36,
     "name": "Viva",
     "city": "Strzelce",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -363,7 +363,7 @@
     "id": 37,
     "name": "Roomm",
     "city": "Alexandria",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -373,7 +373,7 @@
     "id": 38,
     "name": "Rhybox",
     "city": "Kallithéa",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -383,7 +383,7 @@
     "id": 39,
     "name": "Thoughtblab",
     "city": "Hadabei",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -393,7 +393,7 @@
     "id": 40,
     "name": "Linkbridge",
     "city": "Bandar-e Torkaman",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -403,7 +403,7 @@
     "id": 41,
     "name": "Chatterbridge",
     "city": "Kamenjane",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -413,7 +413,7 @@
     "id": 42,
     "name": "Shufflebeat",
     "city": "Aloja",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -423,7 +423,7 @@
     "id": 43,
     "name": "Thoughtmix",
     "city": "San Patricio",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -433,7 +433,7 @@
     "id": 44,
     "name": "Mynte",
     "city": "Týnec",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -443,7 +443,7 @@
     "id": 45,
     "name": "Bluejam",
     "city": "Malasiqui",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -453,7 +453,7 @@
     "id": 46,
     "name": "Roodel",
     "city": "Saku",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -463,7 +463,7 @@
     "id": 47,
     "name": "Twimm",
     "city": "Yamrat",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -473,7 +473,7 @@
     "id": 48,
     "name": "Riffpedia",
     "city": "Muro",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -483,7 +483,7 @@
     "id": 49,
     "name": "Oozz",
     "city": "Szczerbice",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -493,7 +493,7 @@
     "id": 50,
     "name": "Mynte",
     "city": "Santuario",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -503,7 +503,7 @@
     "id": 51,
     "name": "Rhynyx",
     "city": "Mayantoc",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -513,7 +513,7 @@
     "id": 52,
     "name": "Skyba",
     "city": "Västerås",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -523,7 +523,7 @@
     "id": 53,
     "name": "Eire",
     "city": "Tangzi",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -533,7 +533,7 @@
     "id": 54,
     "name": "Quinu",
     "city": "Orenburg",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -543,7 +543,7 @@
     "id": 55,
     "name": "Abata",
     "city": "Dongfu",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -553,7 +553,7 @@
     "id": 56,
     "name": "Vipe",
     "city": "Manfalūţ",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -563,7 +563,7 @@
     "id": 57,
     "name": "Wikizz",
     "city": "Yonghe",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -573,7 +573,7 @@
     "id": 58,
     "name": "Topiclounge",
     "city": "New York City",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -583,7 +583,7 @@
     "id": 59,
     "name": "Thoughtbridge",
     "city": "Maragogipe",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -593,7 +593,7 @@
     "id": 60,
     "name": "Trupe",
     "city": "Wyszków",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -603,7 +603,7 @@
     "id": 61,
     "name": "Yotz",
     "city": "Kista",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -613,7 +613,7 @@
     "id": 62,
     "name": "Shuffletag",
     "city": "Cibetung Dua",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -623,7 +623,7 @@
     "id": 63,
     "name": "Oyonder",
     "city": "Muzambinho",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -633,7 +633,7 @@
     "id": 64,
     "name": "Twitterbridge",
     "city": "Plataran",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -643,7 +643,7 @@
     "id": 65,
     "name": "Vinte",
     "city": "Yekimovichi",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -653,7 +653,7 @@
     "id": 66,
     "name": "Eayo",
     "city": "Liangyaping",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -663,7 +663,7 @@
     "id": 67,
     "name": "Oloo",
     "city": "San Fernando de Monte Cristi",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -673,7 +673,7 @@
     "id": 68,
     "name": "Pixope",
     "city": "Wysoka",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -683,7 +683,7 @@
     "id": 69,
     "name": "Jaxspan",
     "city": "Engenheiro Beltrão",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -693,7 +693,7 @@
     "id": 70,
     "name": "Kanoodle",
     "city": "Hörby",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -703,7 +703,7 @@
     "id": 71,
     "name": "Cogilith",
     "city": "San Bernardino",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -713,7 +713,7 @@
     "id": 72,
     "name": "Jetpulse",
     "city": "Sydney South",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -723,7 +723,7 @@
     "id": 73,
     "name": "Kazio",
     "city": "Ziway",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -733,7 +733,7 @@
     "id": 74,
     "name": "Voonix",
     "city": "Fengzhou",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -743,7 +743,7 @@
     "id": 75,
     "name": "Vinte",
     "city": "Wilczyce",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -753,7 +753,7 @@
     "id": 76,
     "name": "Oozz",
     "city": "Presnenskiy",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -763,7 +763,7 @@
     "id": 77,
     "name": "Roomm",
     "city": "Velikovechnoye",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -773,7 +773,7 @@
     "id": 78,
     "name": "Camido",
     "city": "Altona",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -783,7 +783,7 @@
     "id": 79,
     "name": "Rooxo",
     "city": "Abbotsford",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -793,7 +793,7 @@
     "id": 80,
     "name": "Roomm",
     "city": "Kadengan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -803,7 +803,7 @@
     "id": 81,
     "name": "Skilith",
     "city": "Jia’an",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -813,7 +813,7 @@
     "id": 82,
     "name": "Centimia",
     "city": "Shuidun",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -823,7 +823,7 @@
     "id": 83,
     "name": "Oloo",
     "city": "Novocherkassk",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -833,7 +833,7 @@
     "id": 84,
     "name": "DabZ",
     "city": "Marondera",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -843,7 +843,7 @@
     "id": 85,
     "name": "Gabtype",
     "city": "Cingambul",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -853,7 +853,7 @@
     "id": 86,
     "name": "Kwilith",
     "city": "Gualeguaychú",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -863,7 +863,7 @@
     "id": 87,
     "name": "Skipfire",
     "city": "Ruixi",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -873,7 +873,7 @@
     "id": 88,
     "name": "Bubblebox",
     "city": "Rifu",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -883,7 +883,7 @@
     "id": 89,
     "name": "Wikizz",
     "city": "Turka",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -893,7 +893,7 @@
     "id": 90,
     "name": "Yodoo",
     "city": "Shuyuan",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -903,7 +903,7 @@
     "id": 91,
     "name": "Twitterbeat",
     "city": "Margaharja",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -913,7 +913,7 @@
     "id": 92,
     "name": "Twitterbeat",
     "city": "Nykvarn",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -923,7 +923,7 @@
     "id": 93,
     "name": "Wikido",
     "city": "Kitakata",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -933,7 +933,7 @@
     "id": 94,
     "name": "Jabbercube",
     "city": "Yuannan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -943,7 +943,7 @@
     "id": 95,
     "name": "Blognation",
     "city": "Velký Újezd",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -953,7 +953,7 @@
     "id": 96,
     "name": "Gigashots",
     "city": "Malvas",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -963,7 +963,7 @@
     "id": 97,
     "name": "Wikizz",
     "city": "Powassan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -973,7 +973,7 @@
     "id": 98,
     "name": "Trilith",
     "city": "Acomayo",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -983,7 +983,7 @@
     "id": 99,
     "name": "Voomm",
     "city": "Gandi",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -993,7 +993,7 @@
     "id": 100,
     "name": "Ooba",
     "city": "Cikai",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1003,7 +1003,7 @@
     "id": 101,
     "name": "Feednation",
     "city": "Nikol’skoye",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1013,7 +1013,7 @@
     "id": 102,
     "name": "Brainbox",
     "city": "Jiaojie",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1023,7 +1023,7 @@
     "id": 103,
     "name": "Flashpoint",
     "city": "Lakeland",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1033,7 +1033,7 @@
     "id": 104,
     "name": "Zoombeat",
     "city": "Matsue-shi",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1043,7 +1043,7 @@
     "id": 105,
     "name": "Cogilith",
     "city": "Kecskemét",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1053,7 +1053,7 @@
     "id": 106,
     "name": "Camido",
     "city": "Semey",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1063,7 +1063,7 @@
     "id": 107,
     "name": "Oba",
     "city": "Infantas",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1073,7 +1073,7 @@
     "id": 108,
     "name": "Oba",
     "city": "Wilkes Barre",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1083,7 +1083,7 @@
     "id": 109,
     "name": "Wikido",
     "city": "Parigi",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1093,7 +1093,7 @@
     "id": 110,
     "name": "Meemm",
     "city": "Volgograd",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1103,7 +1103,7 @@
     "id": 111,
     "name": "Yotz",
     "city": "Callanca",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1113,7 +1113,7 @@
     "id": 112,
     "name": "Eayo",
     "city": "Keelung",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1123,7 +1123,7 @@
     "id": 113,
     "name": "Youspan",
     "city": "Keruguya",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1133,7 +1133,7 @@
     "id": 114,
     "name": "Linkbuzz",
     "city": "Axili",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1143,7 +1143,7 @@
     "id": 115,
     "name": "Thoughtbridge",
     "city": "Vorontsovka",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1153,7 +1153,7 @@
     "id": 116,
     "name": "Linkbuzz",
     "city": "Heshui",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1163,7 +1163,7 @@
     "id": 117,
     "name": "Tagfeed",
     "city": "Miaoyu",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1173,7 +1173,7 @@
     "id": 118,
     "name": "Devify",
     "city": "Sertolovo",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1183,7 +1183,7 @@
     "id": 119,
     "name": "Oyonder",
     "city": "Cavan",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1193,7 +1193,7 @@
     "id": 120,
     "name": "Youfeed",
     "city": "Longchiqiao",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1203,7 +1203,7 @@
     "id": 121,
     "name": "Twinder",
     "city": "Presnenskiy",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1213,7 +1213,7 @@
     "id": 122,
     "name": "Janyx",
     "city": "Cikaung",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1223,7 +1223,7 @@
     "id": 123,
     "name": "Chatterbridge",
     "city": "Vingåker",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1233,7 +1233,7 @@
     "id": 124,
     "name": "Skimia",
     "city": "Gaotian",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1243,7 +1243,7 @@
     "id": 125,
     "name": "Topicblab",
     "city": "Zvezdara",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1253,7 +1253,7 @@
     "id": 126,
     "name": "Rhycero",
     "city": "Sicaya",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1263,7 +1263,7 @@
     "id": 127,
     "name": "Voonte",
     "city": "Villa Allende",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1273,7 +1273,7 @@
     "id": 128,
     "name": "Trudoo",
     "city": "Telpaneca",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1283,7 +1283,7 @@
     "id": 129,
     "name": "Linkbuzz",
     "city": "Bugo",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1293,7 +1293,7 @@
     "id": 130,
     "name": "Realcube",
     "city": "Miragoâne",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1303,7 +1303,7 @@
     "id": 131,
     "name": "Devshare",
     "city": "Youzha",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1313,7 +1313,7 @@
     "id": 132,
     "name": "Feedbug",
     "city": "Hetou",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1323,7 +1323,7 @@
     "id": 133,
     "name": "Photolist",
     "city": "Inanwatan",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1333,7 +1333,7 @@
     "id": 134,
     "name": "Meedoo",
     "city": "Haiyu",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1343,7 +1343,7 @@
     "id": 135,
     "name": "Skalith",
     "city": "Wilczyce",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1353,7 +1353,7 @@
     "id": 136,
     "name": "Mydeo",
     "city": "Meylan",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1363,7 +1363,7 @@
     "id": 137,
     "name": "Miboo",
     "city": "Xichang",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1373,7 +1373,7 @@
     "id": 138,
     "name": "Gabvine",
     "city": "Vladimir",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1383,7 +1383,7 @@
     "id": 139,
     "name": "Katz",
     "city": "Embu",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1393,7 +1393,7 @@
     "id": 140,
     "name": "Quire",
     "city": "Agustín Codazzi",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1403,7 +1403,7 @@
     "id": 141,
     "name": "Jaloo",
     "city": "Mörön",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1413,7 +1413,7 @@
     "id": 142,
     "name": "Browsetype",
     "city": "Embu",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1423,7 +1423,7 @@
     "id": 143,
     "name": "Brainsphere",
     "city": "Priyutovo",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1433,7 +1433,7 @@
     "id": 144,
     "name": "Trilia",
     "city": "Walichnowy",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1443,7 +1443,7 @@
     "id": 145,
     "name": "Kamba",
     "city": "Babakanloa",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1453,7 +1453,7 @@
     "id": 146,
     "name": "Youfeed",
     "city": "Ra’s Bayrūt",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1463,7 +1463,7 @@
     "id": 147,
     "name": "Brightdog",
     "city": "Wuyang",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1473,7 +1473,7 @@
     "id": 148,
     "name": "Podcat",
     "city": "Qŭshkŭpir",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1483,7 +1483,7 @@
     "id": 149,
     "name": "Meevee",
     "city": "Yuhe",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1493,7 +1493,7 @@
     "id": 150,
     "name": "Meetz",
     "city": "Yongjiu",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1503,7 +1503,7 @@
     "id": 151,
     "name": "Ntags",
     "city": "Energodar",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1513,7 +1513,7 @@
     "id": 152,
     "name": "Kimia",
     "city": "No Kunda",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1523,7 +1523,7 @@
     "id": 153,
     "name": "Meevee",
     "city": "Churovichi",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1533,7 +1533,7 @@
     "id": 154,
     "name": "Tanoodle",
     "city": "Krian",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1543,7 +1543,7 @@
     "id": 155,
     "name": "Yadel",
     "city": "Nacaome",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1553,7 +1553,7 @@
     "id": 156,
     "name": "Dynabox",
     "city": "La Cruz de Río Grande",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1563,7 +1563,7 @@
     "id": 157,
     "name": "Wordpedia",
     "city": "Tonglin",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1573,7 +1573,7 @@
     "id": 158,
     "name": "Tagtune",
     "city": "Linqu",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1583,7 +1583,7 @@
     "id": 159,
     "name": "Youopia",
     "city": "Ishëm",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1593,7 +1593,7 @@
     "id": 160,
     "name": "Centimia",
     "city": "Madagali",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1603,7 +1603,7 @@
     "id": 161,
     "name": "Oba",
     "city": "Morón",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1613,7 +1613,7 @@
     "id": 162,
     "name": "Quinu",
     "city": "Dobra",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1623,7 +1623,7 @@
     "id": 163,
     "name": "Browsebug",
     "city": "Beibao",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1633,7 +1633,7 @@
     "id": 164,
     "name": "Meeveo",
     "city": "Paldiski",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1643,7 +1643,7 @@
     "id": 165,
     "name": "Pixope",
     "city": "Almeirim",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1653,7 +1653,7 @@
     "id": 166,
     "name": "Centizu",
     "city": "Albany",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1663,7 +1663,7 @@
     "id": 167,
     "name": "Thoughtbridge",
     "city": "Bual",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1673,7 +1673,7 @@
     "id": 168,
     "name": "Jabbercube",
     "city": "Ngangpo",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1683,7 +1683,7 @@
     "id": 169,
     "name": "Izio",
     "city": "Pasirpanjang",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1693,7 +1693,7 @@
     "id": 170,
     "name": "Camido",
     "city": "Shimiaozi",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1703,7 +1703,7 @@
     "id": 171,
     "name": "Skiptube",
     "city": "Huangshi",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1713,7 +1713,7 @@
     "id": 172,
     "name": "Jaxnation",
     "city": "Sumberagung",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1723,7 +1723,7 @@
     "id": 173,
     "name": "Meedoo",
     "city": "Jibu Hulangtu",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1733,7 +1733,7 @@
     "id": 174,
     "name": "Jabberstorm",
     "city": "Hangzhou",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1743,7 +1743,7 @@
     "id": 175,
     "name": "Fiveclub",
     "city": "Nampicuan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1753,7 +1753,7 @@
     "id": 176,
     "name": "Devpulse",
     "city": "Vadstena",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1763,7 +1763,7 @@
     "id": 177,
     "name": "Abatz",
     "city": "Wujing",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1773,7 +1773,7 @@
     "id": 178,
     "name": "Buzzshare",
     "city": "Pampierstad",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1783,7 +1783,7 @@
     "id": 179,
     "name": "Omba",
     "city": "Baishi",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1793,7 +1793,7 @@
     "id": 180,
     "name": "Katz",
     "city": "Truskavets",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1803,7 +1803,7 @@
     "id": 181,
     "name": "Eadel",
     "city": "Itaguaí",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1813,7 +1813,7 @@
     "id": 182,
     "name": "Brainverse",
     "city": "Kudang",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1823,7 +1823,7 @@
     "id": 183,
     "name": "Edgewire",
     "city": "Sheffield",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1833,7 +1833,7 @@
     "id": 184,
     "name": "Yodel",
     "city": "Saurama",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1843,7 +1843,7 @@
     "id": 185,
     "name": "Zoomdog",
     "city": "Luleå",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1853,7 +1853,7 @@
     "id": 186,
     "name": "Eimbee",
     "city": "Sevan",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1863,7 +1863,7 @@
     "id": 187,
     "name": "Wordtune",
     "city": "Kaliro",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1873,7 +1873,7 @@
     "id": 188,
     "name": "Buzzster",
     "city": "Kouvola",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1883,7 +1883,7 @@
     "id": 189,
     "name": "Kamba",
     "city": "Sutukung",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],
@@ -1893,7 +1893,7 @@
     "id": 190,
     "name": "Wikizz",
     "city": "Sovetskiy",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1903,7 +1903,7 @@
     "id": 191,
     "name": "Photolist",
     "city": "Oenopu",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1913,7 +1913,7 @@
     "id": 192,
     "name": "Divape",
     "city": "Mỹ Thọ",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1923,7 +1923,7 @@
     "id": 193,
     "name": "Jabberstorm",
     "city": "Angochi",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Plumbing"
     ],
@@ -1933,7 +1933,7 @@
     "id": 194,
     "name": "Blogpad",
     "city": "Cibalieur",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1943,7 +1943,7 @@
     "id": 195,
     "name": "Realcube",
     "city": "Ḩajjah",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Excavation"
     ],
@@ -1953,7 +1953,7 @@
     "id": 196,
     "name": "Trupe",
     "city": "Umeå",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1963,7 +1963,7 @@
     "id": 197,
     "name": "Devcast",
     "city": "Dmitriyevskaya",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Electrical"
     ],
@@ -1973,7 +1973,7 @@
     "id": 198,
     "name": "Realmix",
     "city": "Bendosari",
-    "specialties": [
+    "specialities": [
       "Excavation",
       "Electrical"
     ],
@@ -1983,7 +1983,7 @@
     "id": 199,
     "name": "Snaptags",
     "city": "Ban Takhun",
-    "specialties": [
+    "specialities": [
       "Electrical",
       "Plumbing"
     ],
@@ -1993,7 +1993,7 @@
     "id": 200,
     "name": "Mymm",
     "city": "Barra do Garças",
-    "specialties": [
+    "specialities": [
       "Plumbing",
       "Excavation"
     ],

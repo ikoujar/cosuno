@@ -1,15 +1,15 @@
-import { createTheme, ThemeProvider } from "@mui/material/styles";
-import * as React from "react";
-import { useContext } from "react";
-import { AppContext } from "./contexts/app.context";
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import * as React from 'react';
+import { useContext } from 'react';
+import { AppContext } from './contexts/app.context';
 
 // Create a theme instance.
 const darkTheme = createTheme({
     palette: {
         mode: 'dark',
         primary: {
-            main: '#2150b6',
-        },
+            main: '#2150b6'
+        }
     }
 });
 
@@ -18,8 +18,8 @@ const lightTheme = createTheme({
     palette: {
         mode: 'light',
         primary: {
-            main: '#2150b6',
-        },
+            main: '#2150b6'
+        }
     }
 });
 
@@ -29,10 +29,10 @@ type Props = {
 }
 
 export default function MyThemeProvider({ children }: Props) {
-    const { darkMode } = useContext(AppContext)
+    const { darkMode } = useContext(AppContext);
     return (
         <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-            { children }
+            {children}
         </ThemeProvider>
-    )
+    );
 }

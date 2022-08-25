@@ -7,8 +7,8 @@ import { cleanQueryParams } from '../../utils/helpers';
  * @param params
  */
 const fetcher = (params: any) =>
-  (url: string) => axiosInstance.get(url, params)
-    .then((res) => res.data);
+    (url: string) => axiosInstance.get(url, params)
+        .then((res) => res.data);
 
 
 /**
@@ -18,17 +18,17 @@ const fetcher = (params: any) =>
  */
 export function useApi(endpoint: string, params?: any) {
 
-  if (params) endpoint += `?${new URLSearchParams(cleanQueryParams(params)).toString()}`;
+    if (params) endpoint += `?${new URLSearchParams(cleanQueryParams(params)).toString()}`;
 
-  const { data, mutate, error } = useSWR(`api/${endpoint}`, fetcher(params));
+    const { data, mutate, error } = useSWR(`api/${endpoint}`, fetcher(params));
 
-  const loading = !data?.data && !error;
+    const loading = !data?.data && !error;
 
-  return {
-    loading,
-    error,
-    data: data?.data,
-    mutate
-  };
+    return {
+        loading,
+        error,
+        data: data?.data,
+        mutate
+    };
 
 }
