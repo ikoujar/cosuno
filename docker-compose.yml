@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  nginx:
+    build: ./nginx
+    ports:
+      - "3003:80"
+    depends_on:
+      - nextjs
+    restart: always
+  nextjs:
+    build: .
+    restart: always
